@@ -90,8 +90,8 @@ const NavImgContainer = styled.div`
 `;
 
 const NavIcon = styled.img`
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
 `;
 
 function NavBar() {
